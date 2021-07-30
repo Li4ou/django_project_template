@@ -2,3 +2,5 @@
 /README.md
 /.flake8
 /backend/.env
+.idea/
+__pycache__/
