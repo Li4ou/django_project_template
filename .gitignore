@@ -1,6 +1,5 @@
 /backend/.idea
-/README.md
 /.flake8
-/backend/.env
-.idea/
-__pycache__/
+.env
+.idea
+__pycache__
