@@ -1,3 +1,4 @@
 /backend/.idea
 /README.md
 /.flake8
+/backend/.env
